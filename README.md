@@ -4,7 +4,7 @@ An automatic water pump control system developed using Arduino for intelligent w
  
 This system monitors water level conditions and controls the pump automatically to prevent overflow or dry running.
 
----
+--- 
 
 ## Overview
 
